@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="C:/softWare/JDK/jdk-8u172" />
+    <option name="vmParameters" value="-Xmx512M -XX:MaxPermSize=256m -XX:ReservedCodeCacheSize=128m -Dsbt.log.format=true -Dsbt.boot.directory=D:/SBT/data/.sbt/boot -Dsbt.global.base=D:/SBT/data/.sbt -Dsbt.ivy.home=D:/SBT/data/.ivy2 -Dsbt.repository.config=D:/SBT/conf/repo.properties -Dsbt.repository.secure=false" />
+  </component>
+</project>
